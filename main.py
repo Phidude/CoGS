@@ -16,7 +16,7 @@ selected_type = 'null'
 show_legend = True
 data = 'null'
 
-st.title('Swansea University Corrosion Software (SUCS)')
+st.title('Corrosion Group Software (CoGS)')
 # button to select which Gamry test is being analysed
 chosen_gamry_test = st.radio(
     'Choose one of the following Gamry tests to analyse:',
